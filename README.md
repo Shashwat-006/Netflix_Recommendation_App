@@ -23,6 +23,3 @@ Check out the **live app here**: [Netflix Recommendation App](https://netflixrec
 - Scikit-learn (for content similarity)
 - Joblib (for saving/loading models)
 - Netflix dataset (movies and TV shows metadata)
-
-   git clone https://github.com/Shashwat-006/Netflix_Recommendation_App.git
-   cd Netflix_Recommendation_App
