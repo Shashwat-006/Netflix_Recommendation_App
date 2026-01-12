@@ -1,30 +1,29 @@
-# 🎬 Netflix Content-Based Recommendation System
+# Netflix Recommendation App 🎬🍿
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.27-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) 
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.26.0-orange)](https://streamlit.io/) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
+[![GitHub stars](https://img.shields.io/github/stars/Shashwat-006/Netflix_Recommendation_App?style=social)](https://github.com/Shashwat-006/Netflix_Recommendation_App/stargazers)
 
-A **content-based movie & TV show recommendation system** built using **Python, Scikit-learn, and Streamlit**.  
-This project recommends similar Netflix titles based on metadata such as **type, genre, and description** using **TF-IDF vectorization and cosine similarity**.
+A **content-based recommendation system** for Netflix movies and TV shows. Enter your favorite movie or show, and this app will recommend similar titles you might enjoy!  
 
-🚀 Deployed as an **interactive Streamlit web app** with a clean and modern UI.
-
-
-## 🔥 Features
-
-- 🎯 Content-based recommendations (no user history required) 
-- 🧠 TF-IDF + Cosine Similarity for text similarity 
-- 🎨 Modern Streamlit UI with card-style layout
-- 🎚️ Adjustable number of recommendations
-- 🔍 Searchable movie/TV show selector
-- ⚡ Fast performance using Streamlit caching
+Check out the **live app here**: [Netflix Recommendation App](https://netflixrecommendationapp.streamlit.app/)
 
 
-## 🛠️ Tech Stack
+## Features ✨
+- Content-based recommendations for Netflix movies and TV shows.
+- Simple and user-friendly **Streamlit interface**.
+- Searchable input for quick recommendations.
+- Interactive sliders and filters to customize suggestions.
 
-- **Python**
-- **Pandas & NumPy**
-- **Scikit-learn**
-- **Streamlit**
-- **TF-IDF Vectorizer**
-- **Cosine Similarity**
+
+## Technologies Used 🛠️
+- Python 3.x
+- Streamlit
+- Pandas, NumPy
+- Scikit-learn (for content similarity)
+- Joblib (for saving/loading models)
+- Netflix dataset (movies and TV shows metadata)
+
+   git clone https://github.com/Shashwat-006/Netflix_Recommendation_App.git
+   cd Netflix_Recommendation_App
