@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.26.0-orange)](https://streamlit.io/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE) 
-[![GitHub stars](https://img.shields.io/github/stars/Shashwat-006/Netflix_Recommendation_App?style=social)](https://github.com/Shashwat-006/Netflix_Recommendation_App/stargazers)
 
 A **content-based recommendation system** for Netflix movies and TV shows. Enter your favorite movie or show, and this app will recommend similar titles you might enjoy!  
 
